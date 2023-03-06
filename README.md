@@ -3,7 +3,7 @@
 
 >📋 This is the implementation of Lifelong Compression Mixture Model via Knowledge Relationship Graph
 
->📋 Accepted by AAAI 2023
+>📋 Accepted by AAAI 2023 (Oral)
 
 # Title : Lifelong Compression Mixture Model via Knowledge Relationship Graph
 
